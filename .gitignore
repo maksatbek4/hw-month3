@@ -1,0 +1,12 @@
+.env
+venv
+.idea
+.vscode
+__pycahe__/
+*.py[cod]
+*.so
+client.py
+callback.py
+admin.py
+exstra.py
+config.py
